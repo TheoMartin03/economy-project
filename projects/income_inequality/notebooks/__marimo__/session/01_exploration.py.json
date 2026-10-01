@@ -7,7 +7,7 @@
   "cells": [
     {
       "id": "Hbol",
-      "code_hash": "4c572650a03250b06c70b959774da558",
+      "code_hash": "f794062a34c06485996da939ff3666fa",
       "outputs": [
         {
           "type": "data",
@@ -16,14 +16,13 @@
           }
         }
       ],
-      "console": [
-        {
-          "type": "stream",
-          "name": "stdout",
-          "text": "Environment working!\n",
-          "mimetype": "text/plain"
-        }
-      ]
+      "console": []
+    },
+    {
+      "id": "yLAT",
+      "code_hash": null,
+      "outputs": [],
+      "console": []
     }
   ]
 }

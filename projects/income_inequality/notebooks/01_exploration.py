@@ -14,7 +14,11 @@ def _():
     import plotly.express as px
     import sklearn
 
-    print("Environment working!")
+    return
+
+
+@app.cell
+def _():
     return
 
 
