@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Raw/large datasets
+projects/*/data/raw/
